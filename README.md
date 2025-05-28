@@ -1,6 +1,6 @@
 
 # Kali Quick Shift 🚀
-
+![Kali QuickShift](https://pbs.twimg.com/media/GsB-UGMWQAA07h7?format=jpg&name=medium)
 **Turn a fresh Ubuntu 22.04 / 24.04 LTS into a complete Kali‑style pentesting & reverse‑engineering workstation — with one script.**  
 Stay on stable Ubuntu while cherry‑picking the goodies you miss from Kali Linux.
 
